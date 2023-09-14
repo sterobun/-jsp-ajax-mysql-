@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Java EE 6-Java EE 6">
+    <archive path="E:/桌面/徐静2105010320/untitled9/lib/javax.ejb.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/lib/javax.resource.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/lib/javax.jms.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/lib/javax.annotation.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/lib/javax.servlet.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/lib/javax.servlet.jsp.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/lib/javax.transaction.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/lib/javax.persistence.jar" />
+  </library>
+  <library name="c3p0-0.9.2.1">
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/c3p0-0.9.2.1.jar" />
+  </library>
+  <library name="commons-dbcp2-2.7.0">
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/commons-dbcp2-2.7.0.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/commons-dbutils-1.7.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/commons-fileupload-1.4.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/commons-io-2.11.0.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/commons-logging-1.2.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/commons-pool2-2.8.0.jar" />
+  </library>
+  <library name="fastjson-1.2.79">
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/fastjson-1.2.79.jar" />
+  </library>
+  <library name="jstl">
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/jstl.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/standard.jar" />
+  </library>
+  <library name="lib">
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/jstl.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/standard.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/c3p0-0.9.2.1.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/fastjson-1.2.79.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/commons-io-2.11.0.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/commons-dbcp2-2.7.0.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/commons-dbutils-1.7.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/commons-logging-1.2.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/commons-pool2-2.8.0.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/commons-fileupload-1.4.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/mysql-connector-java-8.0.12.jar" />
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/mchange-commons-java-0.2.3.4.jar" />
+  </library>
+  <library name="mchange-commons-java-0.2.3.4">
+    <archive path="E:/桌面/徐静2105010320/untitled9/web/WEB-INF/lib/mchange-commons-java-0.2.3.4.jar" />
+  </library>
+  <library name="servlet-api">
+    <archive path="C:/Program Files/apache-tomcat-9.0.52/lib/servlet-api.jar" />
+    <archive path="C:/Program Files/apache-tomcat-9.0.52/lib/jsp-api.jar" />
+  </library>
+</eclipse-userlibraries>
+

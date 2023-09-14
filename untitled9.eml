@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/untitled9"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 9.0.52" scope="PROVIDED"/>
+	<levels>
+		<level name="Tomcat 9.0.52" value="application_server_libraries"/>
+		<level name="jstl" value="project"/>
+		<level name="c3p0-0.9.2.1" value="project"/>
+		<level name="commons-dbcp2-2.7.0" value="project"/>
+		<level name="mchange-commons-java-0.2.3.4" value="project"/>
+		<level name="fastjson-1.2.79" value="project"/>
+		<level name="servlet-api" value="project"/>
+		<level name="lib" value="project"/>
+		<level name="Java EE 6-Java EE 6" value="project"/>
+	</levels>
+</component>
